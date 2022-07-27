@@ -1,0 +1,83 @@
+#box{
+    width: 800px;
+    background-color:rgb(149, 228, 242);
+    border: 5px solid rgb(149, 228, 242)  ;
+    padding-top: 2px;
+    border-radius: none;
+}
+.hbox{
+
+    background-color:rgb(204, 244, 253);
+}
+
+.nav{
+    background-color:rgb(79, 20, 79);
+    color: white;
+    padding: 1px;
+    padding-left: 15px;
+}
+.head1 h3{
+    color: blue;
+}
+
+.head1{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: none;
+    
+
+}
+body{
+    
+    background-color:rgb(188, 237, 255);
+}
+.form{
+
+    background-color: rgb(221, 249, 255);
+    color:black;
+    border-left: 15px solid rgb(70, 216, 223);
+    padding: 10px;
+    margin-top: 10px;
+}
+
+
+.button{
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+    border-color: gray;
+    background-color: rgb(47, 83, 182);
+    color: black;
+  }
+  
+
+  /*/.submit{
+    background-color: red;
+    color: black;
+  }
+  .reset{
+    background-color: green;
+    color: white;
+  }/*/
+  #myform{
+    width: 800px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkblue;
+    border: none;
+    
+  }
+  #input td{
+    background-color: rgba(240, 255, 108, 0.9);
+  }
+  #tr{
+    border-top: 5px solid white;
+    padding-top: 2px;
+    border-radius: 10px;
+  }
+  #button{
+    background-color:rgb(167, 221, 231);
+  }
+  footer{
+    text-align: right;
+  }
